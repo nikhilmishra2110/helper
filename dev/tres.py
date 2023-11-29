@@ -1,1 +1,8 @@
 print ("Nikhil")
+print ("Nikhil")
+print ("Nikhil")
+print ("Nikhil")
+print ("Nikhil")
+print ("Nikhil")
+print ("Nikhil")
+print ("Nikhil")
